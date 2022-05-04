@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dandanthesoftwareman
+- 👋 Hi, I’m Dan
 - 👀 I’m a musician turned programmer
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on anything will help me discover my focus as a developer
