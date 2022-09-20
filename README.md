@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan
-- 👀 I’m a musician who decided to become a software developer
+- 👀 I’m a proffesional musician who decided to become a software developer
 - 🌱 I’m a Graduate of the Grand Circus C# .NET full stack bootcamp, and continue my studies in C#, Angular and Python.
 - 📫 How to reach me: dandanthesoftwareman@outlook.com
 
